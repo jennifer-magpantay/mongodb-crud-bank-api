@@ -1,0 +1,28 @@
+{
+  "name": "crud-bank-api",
+  "version": "1.0.0",
+  "description": "CRUD API using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jennifer-magpantay"
+  },
+  "keywords": [
+    "CRUD",
+    "API",
+    "MongoDB"
+  ],
+  "author": "Jennifer Magpantay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6"
+  },
+  "type": "module"
+}
